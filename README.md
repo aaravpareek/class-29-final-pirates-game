@@ -1,1 +1,3 @@
-# class-29-final-pirates-game
+# PiratesInvasionStage-6
+
+adding sounds and score
